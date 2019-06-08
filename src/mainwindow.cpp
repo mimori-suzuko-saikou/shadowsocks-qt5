@@ -166,7 +166,7 @@ void MainWindow::onImportGuiJson()
                    this,
                    tr("Import Connections from gui-config.json"),
                    QString(),
-                   "GUI Configuration (gui-config.json)");
+                   "GUI Configuration (*.json)");
     if (!file.isNull()) {
         configHelper->importGuiConfigJson(model, file);
     }
