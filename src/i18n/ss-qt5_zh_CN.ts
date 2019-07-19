@@ -242,7 +242,7 @@
     <message>
         <location filename="../mainwindow.cpp" line="170"/>
         <source>Import Connections from gui-config.json</source>
-        <translation>从gui-config.json导入连接</translation>
+        <translation>从json导入连接</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="182"/>
@@ -499,7 +499,7 @@
     <message>
         <location filename="../mainwindow.ui" line="301"/>
         <source>&amp;Import Connections from gui-config.json</source>
-        <translation>从 gui-config.json导入连接(&amp;I)</translation>
+        <translation>从 json导入连接(&amp;I)</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="304"/>
